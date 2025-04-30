@@ -24,3 +24,6 @@ def musicians(request):
     }
 
     return render(request, 'musicians.xhtml', data)
+
+
+
